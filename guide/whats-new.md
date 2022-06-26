@@ -43,7 +43,7 @@ All content has been updated to use discord.js v13 syntax. The v12 version of th
 
 ### New
 
-- [Updating from v12 to v13](/additional-info/changes-in-v13.md): A list of the changes from discord.js v12 to v13
+- [Updating from v12EE to v13](/additional-info/changes-in-v13.md): A list of the changes from discord.js v12 to v13
 - [Slash commands](/interactions/slash-commands.md): Registering, replying to slash commands and permissions
 - [Buttons](/interactions/buttons.md): Building, sending, and receiving buttons
 - [Select menus](/interactions/select-menus.md): Building, sending, and receiving select menus
